@@ -9,7 +9,7 @@
 
 ## Portfolio
 
-<a href="https://somesh-mohanty-portfolio.vercel.app/" style="text-align:center"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/e1/e3/6ae1e310a32b57bdfe9a143027ab62c4.gif"/>Click Here</a>
+<a href="https://somesh-mohanty-portfolio.vercel.app/" style="text-align:center"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/e1/e3/6ae1e310a32b57bdfe9a143027ab62c4.gif"/></a>
 
  
 
