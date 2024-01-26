@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on A Saas Website for Subscription based Ecommerce Website with Chat Bot services<br><br><br><br>💬 Ask me about React , User Experience Design , Nextjs , Tailwind<br><br>📫 How to reach me someshmohanty08@gmail.com<br><br>⚡ Fun fact I think I am a Human
+🔭 I’m currently working on A Saas Website for Subscription based Ecommerce Website with Chat Bot services<br><br>💬 Ask me about React ,User Experience Design ,Nextjs ,Tailwind<br><br>📫 How to reach me someshmohanty08@gmail.com<br><br>⚡ Fun fact I think I am a Human
 
 ## Portfolio
 
