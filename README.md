@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Somesh</h1>
-<h3 align="center">A passionate frontend developer / UI-UX Designer from India</h3>
+<h3 align="center">A passionate Frontend Developer / UI-UX Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/3b/43/08/3b4308602914d2f122ae1461a31daeab.gif"/>
 
 
