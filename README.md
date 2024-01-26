@@ -5,7 +5,13 @@
 
 
 ## 💫 About Me:
-🔭 I’m currently working on A Saas Website for Subscription based Ecommerce Website with Chat Bot services<br><br>👨‍💻 <a href = "https://somesh-mohanty-portfolio.vercel.app/">Portfolio Link</a><br><br>💬 Ask me about React , User Experience Design , Nextjs , Tailwind<br><br>📫 How to reach me someshmohanty08@gmail.com<br><br>⚡ Fun fact I think I am a Human
+🔭 I’m currently working on A Saas Website for Subscription based Ecommerce Website with Chat Bot services<br><br><br><br>💬 Ask me about React , User Experience Design , Nextjs , Tailwind<br><br>📫 How to reach me someshmohanty08@gmail.com<br><br>⚡ Fun fact I think I am a Human
+
+## Portfolio
+
+<a href="https://somesh-mohanty-portfolio.vercel.app/" style="text-align:center"><img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/6a/e1/e3/6ae1e310a32b57bdfe9a143027ab62c4.gif"/>Click Here</a>
+
+ 
 
 
 #### 🌐 Socials:
